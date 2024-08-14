@@ -1,0 +1,1 @@
+import{_ as e,o as a,c,a as s}from"./index-C7SEzn-W.js";const o={},t={class:"map-container"},n={class:"map",ref:"map"};function r(_,i){return a(),c("div",t,[s("div",n,null,512)])}const l=e(o,[["render",r]]);export{l as default};

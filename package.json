@@ -1,0 +1,26 @@
+{
+  "name": "sky-task-bible",
+  "private": true,
+  "version": "0.0.3-beta",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc -b && vite build",
+    "build:no-vue-tsc": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/node": "^22.0.0",
+    "@varlet/ui": "^3.3.10",
+    "pinia": "^2.2.0",
+    "vue": "^3.4.31",
+    "vue-intl": "^6.5.2",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.4",
+    "vue-tsc": "^2.0.24"
+  }
+}

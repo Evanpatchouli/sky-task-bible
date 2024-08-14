@@ -1,0 +1,26 @@
+[
+  {
+    "version": "0.0.3-beta",
+    "timestamp": 1722928490878,
+    "commit": "",
+    "author": "兰玫瑰 <evanpatchouli@foxmail.com>",
+    "message": "重构了界面布局",
+    "information": ["添加了晨岛和云野的常驻先祖", "添加了部分季节先祖", "优化了部分动作图片资源"]
+  },
+  {
+    "version": "0.0.2-beta",
+    "timestamp": 1722672385035,
+    "commit": "",
+    "author": "兰玫瑰 <evanpatchouli@foxmail.com>",
+    "message": "重构了界面布局",
+    "information": ["整体为弹性布局，底部导航栏不再粘性"]
+  },
+  {
+    "version": "0.0.1-beta",
+    "timestamp": 1722672385035,
+    "commit": "",
+    "author": "兰玫瑰 <evanpatchouli@foxmail.com>",
+    "message": "增加了部分功能",
+    "information": ["支持了地图筛选功能", "增加了开发者日志"]
+  }
+]
